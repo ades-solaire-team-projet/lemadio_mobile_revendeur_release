@@ -1,1 +1,11 @@
 "# lemadio_mobile_revendeur_release" 
+"# Ceci est reservé seulement pour la mise à jour à distance de l'application revendeur"
+
+"# Etape:"
+"# 1. Ajout dans le code source la modification ou nouvelle fonctionnalité."
+"# 2. Incrementer la version dans dans pubspec.yml"
+"# 3. Build l'apk (flutter build apk --release)"
+"# 4. Créer un nouveau release sur github, sur ce repo"
+"# 5. Mettre un tag (ex: v1.0.1) et titre (ex: version 1.0.1)"
+"# 6. Upload l'apk"
+"# 7. Publier en tant que latest"
